@@ -1,5 +1,5 @@
 # 交流、下载编译包 qq群：751913847
-# AI 调试助手
+# AI 任务执行、调试助手
 ![image](https://github.com/user-attachments/assets/fc978ca8-d5c1-4e9c-adda-4cb0c64751d8)
 ![image](https://github.com/user-attachments/assets/1aca50b8-b674-4fff-95f0-7df57f20af76)
 
