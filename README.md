@@ -1,5 +1,6 @@
 # 交流qq群：751913847
 # AI 调试助手
+![image](https://github.com/user-attachments/assets/fc978ca8-d5c1-4e9c-adda-4cb0c64751d8)
 
 一个基于大语言模型的系统调试工具，可以通过自然语言与 AI 交互来执行系统操作和获取信息。
 
